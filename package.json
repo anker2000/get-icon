@@ -1,0 +1,28 @@
+{
+  "name": "@hangthedj/get-icon",
+  "version": "1.0.0",
+  "description": "Icon set for Hang the DJ",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anker2000/get-icon.git"
+  },
+  "keywords": [
+    "hang",
+    "dj",
+    "icons",
+    "icon"
+  ],
+  "author": "Rasmus Anker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anker2000/get-icon/issues"
+  },
+  "homepage": "https://github.com/anker2000/get-icon#readme",
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}
