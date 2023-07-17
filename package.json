@@ -1,11 +1,8 @@
 {
-  "name": "get-icon",
+  "name": "@hangthedj/get-icon",
   "version": "1.0.2",
   "description": "Icon set for Hang the DJ",
   "main": "index.js",
-  "type": "module",
-  "scripts": {
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anker2000/get-icon.git"
@@ -22,7 +19,6 @@
     "url": "https://github.com/anker2000/get-icon/issues"
   },
   "homepage": "https://github.com/anker2000/get-icon#readme",
-  "devDependencies": {},
   "publishConfig": {
     "access": "public"
   }
